@@ -1,0 +1,6 @@
+title: My Personal Site
+description: Just a simple personal site with a blog
+baseurl: ""
+url: "https://z66n.github.io"
+theme: null
+markdown: kramdown

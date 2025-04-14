@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: auto; padding: 2rem; background: #fdf6e3; color: #333; }
+    a { color: #268bd2; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>{{ page.title }}</h1>
+  <p><small>{{ page.date | date: "%B %d, %Y" }}</small></p>
+  {{ content }}
+  <p><a href="/blog/">← Back to blog</a></p>
+</body>
+</html>
