@@ -4,3 +4,5 @@ baseurl: ""
 url: "https://z66n.github.io"
 theme: null
 markdown: kramdown
+plugins:
+  - jekyll-feed
