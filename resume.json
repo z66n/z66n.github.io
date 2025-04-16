@@ -1,0 +1,196 @@
+{
+  "basics": {
+    "name": "Sigmund Waldfürst",
+    "label": "Senior Prompt Engineer",
+    "image": "https://avatars.githubusercontent.com/u/00000000?v=4",
+    "email": "z66n@example.com",
+    "phone": "(123) 456-7890",
+    "url": "https://z66n.github.io",
+    "summary": "Curious tinkerer passionate about FOSS, privacy, and simple, elegant systems. Builds cool things with code and text.",
+    "location": {
+      "address": "Lumon Industries, 101 Crawfords Corner Rd",
+      "postalCode": "07733",
+      "city": "Holmdel",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "z66n",
+        "url": "https://github.com/z66n"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Prompt Labs Inc.",
+      "position": "Senior Prompt Engineer",
+      "url": "https://promptlabs.ai",
+      "startDate": "2024-01-01",
+      "summary": "Leading the design of powerful and efficient prompts for AI models in creative, technical, and strategic contexts.",
+      "highlights": [
+        "Built a modular prompt framework used across multiple internal tools.",
+        "Championed FOSS practices within AI prompt pipelines."
+      ]
+    },
+    {
+      "name": "Prompt Labs Inc.",
+      "position": "Prompt Engineer",
+      "url": "https://promptlabs.ai",
+      "startDate": "2021-06-01",
+      "endDate": "2023-12-31",
+      "summary": "Crafted prompts to improve LLM output in coding, summarization, and reasoning tasks.",
+      "highlights": [
+        "Developed a prompt tuning system for knowledge retrieval tasks.",
+        "Collaborated with product teams to design user-facing prompt interfaces."
+      ]
+    },
+    {
+      "name": "Federal Bureau of Control (FBC)",
+      "position": "Junior Containment Analyst",
+      "url": "https://fbc.gov",
+      "startDate": "2020-01-01",
+      "endDate": "2021-05-01",
+      "summary": "Assisted in the stabilization and classification of newly discovered Altered Items, with a focus on linguistic anomalies and cognitohazardous materials.",
+      "highlights": [
+        "Developed internal tooling for tracking semantic drift in shifting object documentation.",
+        "Deployed emergency prompts to contain a memetic outbreak in Sector ███, preventing Class 3 escalation."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Dyer Foundation for Polar Memory",
+      "position": "Technical Archivist",
+      "url": "https://dyerfoundation.org",
+      "startDate": "2022-10-01",
+      "endDate": "2023-03-01",
+      "summary": "Digitized and preserved lost expedition logs from the 1930-31 Antarctic research missions, using shell scripts and OCR tooling to restore fragmented documentation.",
+      "highlights": [
+        "Recovered over 5,000 lines of corrupted expedition metadata from decaying media.",
+        "Built a searchable terminal-based index system for cryptic glyphs and ancient cartographic scans."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Miskatonic University",
+      "area": "Reality Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-01",
+      "score": "4.2",
+      "courses": [
+        "Applied Cognition Loops",
+        "Recursive System Design",
+        "Ancient Markup & Esoteric Languages"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Director’s Ribbon of Extraordinary Action",
+      "date": "2020-08-13",
+      "awarder": "Federal Bureau of Control",
+      "summary": "Awarded for exceptional performance and improvisational prompt engineering during the 'Cascade Loop Incident,' which caused recursive documentation and localized timestream corruption in the Containment Wing."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Cryptic Interfaces: UX Patterns in the Prehuman Archives",
+      "publisher": "Kadath Computing Quarterly",
+      "releaseDate": "2023-10-13",
+      "url": "https://kadathcomputing.org/issues/2023-fall",
+      "summary": "A short speculative paper analyzing the interaction patterns of the Elder Things' stone tablet systems, drawing parallels with modal text editors and UNIX."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Prompt Engineering",
+      "level": "Expert",
+      "keywords": [
+        "LLMs",
+        "Few-shot learning",
+        "Zero-shot prompting",
+        "Chain of Thought"
+      ]
+    },
+    {
+      "name": "*nix Systems",
+      "level": "Advanced",
+      "keywords": [
+        "Arch Linux",
+        "Shell scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Writing",
+      "level": "Advanced",
+      "keywords": [
+        "Technical Writing",
+        "Markdown",
+        "Minimalist Blogging"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Shell",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Free and Open Source Software",
+      "keywords": [
+        "Privacy tools",
+        "Window managers",
+        "Neovim configs"
+      ]
+    },
+    {
+      "name": "Digital Minimalism",
+      "keywords": [
+        "Self-hosting",
+        "Small web",
+        "Terminal UIs"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "morandi.nvim",
+      "description": "A Neovim colorscheme inspired by the soft tones of Giorgio Morandi’s paintings.",
+      "url": "https://github.com/morandi-theme/morandi.nvim",
+      "keywords": [
+        "Neovim",
+        "Colorscheme",
+        "Lua"
+      ]
+    },
+    {
+      "name": "epic-games-notifier",
+      "description": "A simple tool to get notified about free games on Epic Store.",
+      "url": "https://github.com/z66n/epic-games-notifier",
+      "keywords": [
+        "Automation",
+        "Notifications",
+        "Free stuff"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. William Dyer",
+      "reference": "Sigmund is a brilliant engineer whose grasp of the ineffable intricacies of symbolic systems surpasses even the academics of Miskatonic. I trust them implicitly with both cognition loops and eldritch interfaces.",
+      "phone": "(000) 192-1930",
+      "email": "dyer@miskatonic.edu"
+    }
+  ]
+}
