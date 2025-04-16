@@ -88,14 +88,17 @@
 </html>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const links = document.querySelectorAll("a[href^='http']");
-    links.forEach(link => {
-      const isExternal = !link.href.includes(window.location.hostname);
-      if (isExternal) {
+    const base = window.location.origin;
+    document.querySelectorAll("a[href]").forEach(link => {
+      const href = link.getAttribute("href");
+
+      const isRelative = href.startsWith('/') || href.startsWith('#');
+      const isSameOrigin = href.startsWith(base);
+      
+      if (!isRelative && !isSameOrigin) {
         link.setAttribute("target", "_blank");
         link.setAttribute("rel", "noopener noreferrer");
       }
     });
   });
 </script>
-
