@@ -19,7 +19,7 @@ I'm a curious tinkerer messing with fun projects and occasionally building cool 
 - 🛠️ [nvim-config](https://github.com/z66n/nvim-config) — custom Neovim setup.
 - 🌐 [z66n.github.io](https://github.com/z66n/z66n.github.io) — this very site.
 - 🎨 [morandi-theme](https://github.com/morandi-theme/morandi-theme) — a colorscheme inspired by Giorgio Morandi’s palette.
-- 🪞 [morandi.nvim](https://github.com/morandi-theme/morandi.nvim) — colors for Neovim in the Morandi style.
+- 🪞 [morandi.nvim](https://github.com/morandi-theme/morandi.nvim) — a Neovim colorscheme in the Morandi style.
 
 ---
 
