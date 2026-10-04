@@ -41,6 +41,16 @@ h1, h2, h3 {
     color: var(--accent);
 }
 
+time {
+    color: var(--dim);
+    font-size: 0.9em;
+}
+
+img {
+    max-width:100%;
+    height:auto
+}
+
 pre, code {
     background: var(--code-bg);
     color: var(--fg);

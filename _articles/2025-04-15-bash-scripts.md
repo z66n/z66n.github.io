@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Writing Better Bash Scripts"
 ---
 

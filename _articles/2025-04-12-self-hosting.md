@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Self-Hosting vs Managed Services"
 ---
 

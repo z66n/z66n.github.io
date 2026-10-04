@@ -2,25 +2,22 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96" />
-  <link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg" />
-  <link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
-  <link rel="manifest" href="/assets/favicon/site.webmanifest" />
+  <title>{{ page.title | default: site.title }}</title>
+  {% if site.indiekit_url %}
+  <link rel="authorization_endpoint" href="{{ site.indiekit_url }}/auth">
+  <link rel="token_endpoint" href="{{ site.indiekit_url }}/auth/token">
+  <link rel="micropub" href="{{ site.indiekit_url }}/micropub">
+  {% endif %}
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
-  <link rel="micropub" href="https://indiekit-site.onrender.com/micropub">
-  <link rel="authorization_endpoint" href="https://indiekit-site.onrender.com/auth">
-  <link rel="token_endpoint" href="https://indiekit-site.onrender.com/auth/token">
   <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
   <header>
     <nav>
       <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
-      <a href="mailto:z66n@example.com">Contact</a>
+      <a href="/content/">Content</a>
+      <a href="{{ site.github_url }}">GitHub</a>
       <a href="/feed.xml">RSS</a>
     </nav>
   </header>

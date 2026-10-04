@@ -1,14 +1,30 @@
-title: My Personal Site
-description: Just a simple personal site with a blog
+title: z66n
 baseurl: ""
 url: "https://z66n.github.io"
-theme: null
-markdown: kramdown
+indiekit_url: "https://indiekit-site.onrender.com"
+github_url: "https://github.com/z66n"
+
 plugins:
   - jekyll-feed
+
+collections:
+  articles:  { output: true, permalink: /articles/:name/ }
+  bookmarks: { output: true, permalink: /bookmarks/:name/ }
+  likes:     { output: true, permalink: /likes/:name/ }
+  notes:     { output: true, permalink: /notes/:name/ }
+  photos:    { output: true, permalink: /photos/:name/ }
+  replies:   { output: true, permalink: /replies/:name/ }
+
 defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
+  - scope: { path: "", type: articles }
+    values: { layout: post }
+  - scope: { path: "", type: bookmarks }
+    values: { layout: post }
+  - scope: { path: "", type: likes }
+    values: { layout: post }
+  - scope: { path: "", type: notes }
+    values: { layout: post }
+  - scope: { path: "", type: photos }
+    values: { layout: post }
+  - scope: { path: "", type: replies }
+    values: { layout: post }

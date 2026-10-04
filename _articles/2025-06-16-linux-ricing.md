@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ricing My Linux Setup"
 ---
 

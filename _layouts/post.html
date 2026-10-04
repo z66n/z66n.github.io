@@ -2,14 +2,19 @@
 layout: default
 ---
 
-<article>
-  <h1>{{ page.title }}</h1>
-  <p style="color: var(--dim); font-size: 0.9em;">
-    {{ page.date | date: "%B %d, %Y" }}
-  </p>
-
-  {{ content }}
-
+<p style="margin-top: 2rem;">
+  <a href="/content/">← Content</a>
+</p>
+<article class="h-entry">
+  {% if page.title %}<h1 class="p-name">{{ page.title }}</h1>{% endif %}
+  {% if page.date %}<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% endif %}
+  {% for image in page.photo %}<img class="u-photo" src="{{ image.url }}" alt="{{ image.alt | default: '' }}">{% endfor %}
+  {% if page.bookmark_of %}<a class="u-bookmark-of" href="{{ page.bookmark_of }}">{{ page.bookmark_of }}</a>{% endif %}
+  {% if page.like_of %}<a class="u-like-of" href="{{ page.like_of }}">{{ page.like_of }}</a>{% endif %}
+  {% if page.in_reply_to %}<a class="u-in-reply-to" href="{{ page.in_reply_to }}">{{ page.in_reply_to }}</a>{% endif %}
+  <div class="e-content">
+    {{ content }}
+  </div>
   <hr>
   <div style="display: flex; justify-content: space-between; font-size: 0.9em;">
     {% if page.previous %}
@@ -19,8 +24,4 @@ layout: default
       <a href="{{ page.next.url }}">{{ page.next.title }} &rarr;</a>
     {% endif %}
   </div>
-
-  <p style="margin-top: 2rem;">
-    <a href="/blog">← Back to blog</a>
-  </p>
 </article>
