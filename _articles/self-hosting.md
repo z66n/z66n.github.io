@@ -1,4 +1,5 @@
 ---
+date: 2025-04-12T00:00:00.000Z
 title: "Self-Hosting vs Managed Services"
 ---
 

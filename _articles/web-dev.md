@@ -1,4 +1,5 @@
 ---
+date: 2025-07-25T00:00:00.000Z
 title: "Web Dev Experiments"
 ---
 
