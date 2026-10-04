@@ -1,5 +1,6 @@
 :root {
     --bg: #2b3339;
+    --bg-alt: #374247;
     --fg: #d3c6aa;
     --dim: #7fbbb3;
     --accent: #a7c080;
@@ -16,10 +17,10 @@ body {
 }
 
 header {
-    background: #374247;
+    background: var(--bg-alt);
     padding: 1rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }

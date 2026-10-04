@@ -4,9 +4,6 @@ url: "https://z66n.github.io"
 indiekit_url: "https://indiekit-site.onrender.com"
 github_url: "https://github.com/z66n"
 
-plugins:
-  - jekyll-feed
-
 collections:
   articles:  { output: true, permalink: /articles/:name/ }
   bookmarks: { output: true, permalink: /bookmarks/:name/ }
