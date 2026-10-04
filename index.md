@@ -1,29 +1,37 @@
 ---
 layout: default
-title: "Welcome"
+title: "z66n"
 ---
 
-# Hello 👋
+# Hello!
 
-I'm a curious tinkerer messing with fun projects and occasionally building cool and simple things on the internet.
+I'm a software engineer who enjoys building practical software, exploring how systems work, and solving problems through technology.
 
-- **Interests**: FOSS, *nix, privacy, web dev
-- [Blog](/blog)  
-- [GitHub](https://github.com/z66n)
-- [Resume](https://registry.jsonresume.org/z66n)[^1]
+My projects are driven by curiosity and real-world use cases, from backend services and web applications to self-hosted software and automation. I enjoy understanding existing systems, improving software quality, and turning ideas into reliable solutions that are useful beyond the code itself.
 
-## 💬 Projects
+## Interests
 
-- [astro-brutalist](https://github.com/z66n/astro-brutalist) — experiment with polished vs brutalist web design.
-- [wall-collect](https://github.com/z66n/wall-collect) — self-hostable web-based wallpaper manager.
-- [clothing-dropbox](https://github.com/z66n/clothing-dropbox) — up-to-date clothing drop-box locations.
-- [epic-games-notifier](https://github.com/z66n/epic-games-notifier) — auto-notifies about Epic’s free games.
-- [dotfiles](https://github.com/z66n/dotfiles) — my system configs for *nix setups.
-- [nvim-config](https://github.com/z66n/nvim-config) — custom Neovim setup.
-- [z66n.github.io](https://github.com/z66n/z66n.github.io) — this very site.
-- [morandi-theme](https://github.com/morandi-theme/morandi-theme) — a colorscheme inspired by Giorgio Morandi’s palette.
-- [morandi.nvim](https://github.com/morandi-theme/morandi.nvim) — a Neovim colorscheme in the Morandi style.
+* Backend systems and APIs
+* Software architecture and modernization
+* Data processing and automation
+* Web applications and user-focused software
+* Self-hosting, open source, and independent software
 
----
+## Currently
 
-[^1]: Disclaimer: this is not a real resume.
+* Building and maintaining independent software projects across different domains
+* Exploring open protocols and community-driven technologies
+* Experimenting with niche ideas and technologies that solve interesting problems
+
+## Technologies
+
+[![Technologies](https://skillicons.dev/icons?i=py,r,js,ts,php,go,java,bash,git,linux,nix,docker,postgres,mysql,react,nextjs,astro,nodejs,deno&perline=7)](https://skillicons.dev)
+
+## Projects
+
+![clothing-dropbox](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fclothing-dropbox&theme=transparent)
+![md2bbcode](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fmd2bbcode&theme=transparent)
+![no.social](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fno.social&theme=transparent)
+![sanming-mahjong](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fsanming-mahjong&theme=transparent)
+![wall-collect](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fwall-collect&theme=transparent)
+![indielite](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Findielite&theme=transparent)
