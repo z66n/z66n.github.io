@@ -3,9 +3,9 @@ layout: default
 title: z66n
 ---
 
-# Hello!
+### z66n
 
-I'm a software engineer who enjoys building practical software, exploring how systems work, and solving problems through technology.
+Software engineer who enjoys building practical software, exploring how systems work, and solving problems through technology.
 
 My projects are driven by curiosity and real-world use cases, from backend services and web applications to self-hosted software and automation. I enjoy understanding existing systems, improving software quality, and turning ideas into reliable solutions that are useful beyond the code itself.
 
@@ -29,9 +29,9 @@ My projects are driven by curiosity and real-world use cases, from backend servi
 
 ## Projects
 
-![clothing-dropbox](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fclothing-dropbox&theme=transparent)
-![md2bbcode](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fmd2bbcode&theme=transparent)
-![no.social](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fno.social&theme=transparent)
-![sanming-mahjong](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fsanming-mahjong&theme=transparent)
-![wall-collect](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fwall-collect&theme=transparent)
-![indielite](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Findielite&theme=transparent)
+![clothing-dropbox](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fclothing-dropbox&theme=dark)
+![md2bbcode](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fmd2bbcode&theme=dark)
+![no.social](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fno.social&theme=dark)
+![sanming-mahjong](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fsanming-mahjong&theme=dark)
+![wall-collect](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fwall-collect&theme=dark)
+![indielite](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Findielite&theme=dark)
