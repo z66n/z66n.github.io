@@ -1,15 +1,14 @@
 :root {
-    --bg: #2b3339;
-    --bg-alt: #374247;
+    --bg0: #272e33;
+    --bg2: #374145;
     --fg: #d3c6aa;
-    --dim: #7fbbb3;
-    --accent: #a7c080;
-    --link: #83c092;
-    --code-bg: #3b4349;
+    --blue: #7fbbb3;
+    --green: #a7c080;
+    --aqua: #83c092;
 }
 
 body {
-    background: var(--bg);
+    background: var(--bg0);
     color: var(--fg);
     font-family: 'Segoe UI', sans-serif;
     margin: 0;
@@ -17,7 +16,7 @@ body {
 }
 
 header {
-    background: var(--bg-alt);
+    background: var(--bg2);
     padding: 1rem;
     display: flex;
     justify-content: center;
@@ -26,7 +25,7 @@ header {
 }
 
 header nav a {
-    color: var(--link);
+    color: var(--aqua);
     text-decoration: none;
     margin: 0 1rem;
     font-weight: bold;
@@ -39,11 +38,11 @@ main {
 }
 
 h1, h2, h3 {
-    color: var(--accent);
+    color: var(--green);
 }
 
 time {
-    color: var(--dim);
+    color: var(--blue);
     font-size: 0.9em;
 }
 
@@ -53,7 +52,7 @@ img {
 }
 
 pre, code {
-    background: var(--code-bg);
+    background: var(--bg2);
     color: var(--fg);
     padding: 0.5em;
     border-radius: 5px;
@@ -64,12 +63,12 @@ pre {
 }
 
 a {
-    color: var(--link);
+    color: var(--aqua);
 }
 
 hr {
     border: none;
     height: 1px;
-    background: var(--dim);
+    background: var(--blue);
     margin: 2rem 0;
 }

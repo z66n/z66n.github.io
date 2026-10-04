@@ -29,9 +29,9 @@ My projects are driven by curiosity and real-world use cases, from backend servi
 
 ## Projects
 
-![clothing-dropbox](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fclothing-dropbox&title_color=a7c080&text_color=d3c6aa&bg_color=374247&icon_color=83c092&border_color=7fbbb3)
-![md2bbcode](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fmd2bbcode&title_color=a7c080&text_color=d3c6aa&bg_color=374247&icon_color=83c092&border_color=7fbbb3)
-![no.social](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fno.social&title_color=a7c080&text_color=d3c6aa&bg_color=374247&icon_color=83c092&border_color=7fbbb3)
-![sanming-mahjong](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fsanming-mahjong&title_color=a7c080&text_color=d3c6aa&bg_color=374247&icon_color=83c092&border_color=7fbbb3)
-![wall-collect](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fwall-collect&title_color=a7c080&text_color=d3c6aa&bg_color=374247&icon_color=83c092&border_color=7fbbb3)
-![indielite](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Findielite&title_color=a7c080&text_color=d3c6aa&bg_color=374247&icon_color=83c092&border_color=7fbbb3)
+![clothing-dropbox](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fclothing-dropbox&title_color=a7c080&text_color=d3c6aa&bg_color=374145&icon_color=83c092&border_color=7fbbb3)
+![md2bbcode](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fmd2bbcode&title_color=a7c080&text_color=d3c6aa&bg_color=374145&icon_color=83c092&border_color=7fbbb3)
+![no.social](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fno.social&title_color=a7c080&text_color=d3c6aa&bg_color=374145&icon_color=83c092&border_color=7fbbb3)
+![sanming-mahjong](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fsanming-mahjong&title_color=a7c080&text_color=d3c6aa&bg_color=374145&icon_color=83c092&border_color=7fbbb3)
+![wall-collect](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Fwall-collect&title_color=a7c080&text_color=d3c6aa&bg_color=374145&icon_color=83c092&border_color=7fbbb3)
+![indielite](https://github-stats-extended.vercel.app/api/pin?username=z66n&repo=z66n%2Findielite&title_color=a7c080&text_color=d3c6aa&bg_color=374145&icon_color=83c092&border_color=7fbbb3)
