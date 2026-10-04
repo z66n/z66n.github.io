@@ -4,8 +4,7 @@ title: Content
 permalink: /content/
 ---
 
-# Content
-
+<h1>Content</h1>
 {% assign types = "articles,bookmarks,likes,notes,photos,replies" | split: "," %}
 {% for type in types %}
   {% assign posts = site[type] | sort: "date" | reverse %}
