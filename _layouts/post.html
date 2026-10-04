@@ -18,10 +18,10 @@ layout: default
   <hr>
   <div style="display: flex; justify-content: space-between; font-size: 0.9em;">
     {% if page.previous %}
-      <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
+      <a href="{{ page.previous.url }}">← {{ page.previous.title }}</a>
     {% endif %}
     {% if page.next %}
-      <a href="{{ page.next.url }}">{{ page.next.title }} &rarr;</a>
+      <a href="{{ page.next.url }}">{{ page.next.title }} →</a>
     {% endif %}
   </div>
 </article>
