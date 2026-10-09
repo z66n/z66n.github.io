@@ -1,7 +1,7 @@
 title: z66n
 baseurl: ""
 url: "https://z66n.github.io"
-indiekit_url: "https://indiekit-site.onrender.com"
+indiekit_url: "https://indiekit-server.onrender.com"
 github_url: "https://github.com/z66n"
 
 collections:
